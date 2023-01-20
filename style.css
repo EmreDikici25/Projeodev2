@@ -1,8 +1,6 @@
-*{
+body{
     margin: 0;
     padding: 0;
-}
-body{
     background: url(manz.jpg);
     background-size: cover;
 }

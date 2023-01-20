@@ -2,4 +2,4 @@
 
 <h5>Ekran Gif'ini Github a yükledim</h5>
 
-![]{Gifim.gif}
+![](Gifim.gif)
